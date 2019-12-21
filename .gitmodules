@@ -1,0 +1,8 @@
+[submodule "Gitpod-Classroom-Extension"]
+	path = Gitpod-Classroom-Extension
+	url = https://github.com/JesterOrNot/Gitpod-Classroom-Extension
+	branch = master
+[submodule "Gitpod-Classroom-Manager"]
+	path = Gitpod-Classroom-Manager
+	url = https://github.com/JesterOrNot/Gitpod-Classroom-Manager
+	branch = master
